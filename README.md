@@ -73,22 +73,9 @@ Prior LiTS work proposes individual training strategies in isolation, on differe
 │       ├── d7_D6cV2_noise.ipynb       ← D6cV2 under 50% combined noise
 │       └── d7_D7b_cascade_noise.ipynb ← D7b under 50% combined noise (binary case)
 │
-├── results/                           ← per-strategy JSON result files
-│   ├── results_d7_D4.json
-│   ├── results_d7_D6c.json
-│   ├── results_d7_D6cV2.json
-│   └── results_d7_D7b.json
-│
-├── plots/                             ← result visualisations
-│   ├── result_clean_vs_noisy.png
-│   ├── result_epoch_shift.png
-│   └── result_training_curves.png
-│
 ├── report/
 │   └── lits_d7_final_report.pdf       ← detailed project writeup
-│
-└── requirements.txt
-```
+│```
 
 ---
 
