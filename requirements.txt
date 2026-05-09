@@ -1,0 +1,19 @@
+# LiTS Noise Robustness Project — Python dependencies
+# Tested on Python 3.10+ with PyTorch 2.x (MPS backend on Apple Silicon, CUDA on NVIDIA GPUs)
+
+# Core ML framework
+torch>=2.0.0
+
+# Numerical and scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Medical imaging — NIfTI volume loading (.nii / .nii.gz)
+nibabel>=5.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Notebook environment
+jupyter>=1.0.0
+ipykernel>=6.20.0
