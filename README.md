@@ -75,6 +75,8 @@ Prior LiTS work proposes individual training strategies in isolation, on differe
 │
 ├── report/
 │   └── lits_d7_final_report.pdf       ← detailed project writeup
+
+└── requirements.txt
 │```
 
 ---
